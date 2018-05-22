@@ -1,4 +1,4 @@
-package com.gladunalexander;
+package com.gladunalexander.service;
 
 import com.amazonaws.services.dynamodbv2.document.DynamoDB;
 import com.amazonaws.services.dynamodbv2.document.Item;

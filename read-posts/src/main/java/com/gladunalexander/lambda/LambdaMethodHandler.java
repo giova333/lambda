@@ -2,7 +2,7 @@ package com.gladunalexander.lambda;
 
 import com.amazonaws.services.lambda.runtime.Context;
 import com.amazonaws.services.lambda.runtime.RequestHandler;
-import com.gladunalexander.DynamoDBService;
+import com.gladunalexander.service.DynamoDBService;
 import com.gladunalexander.domain.Post;
 import com.gladunalexander.domain.PostId;
 
