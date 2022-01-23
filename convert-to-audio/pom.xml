@@ -22,7 +22,7 @@
         <dependency>
             <groupId>com.amazonaws</groupId>
             <artifactId>aws-java-sdk-polly</artifactId>
-            <version>1.11.77</version>
+            <version>1.12.145</version>
         </dependency>
     </dependencies>
 
